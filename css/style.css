@@ -218,7 +218,7 @@ header ul li a{
   cursor: pointer;
 }
 .banner button::before{
-  font-family:'xeicon';
+  font-family:'fontawesome';
   color: transparent;
   color: #fff;
   font-size: 48px;
@@ -228,13 +228,13 @@ header ul li a{
   font-size: 0;
 }
 .banner button.slick-prev::before{
-  content:"\e93b";
+  content: "\f053";
 }
 .banner button.slick-next{
   right: 0;
 }
 .banner button.slick-next::before{
-  content: "\e93e";
+  content: "\f054";
 }
 /* /.intro  */
 
